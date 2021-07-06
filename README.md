@@ -1,6 +1,5 @@
 # Boston_Housing_prices
 CS_Weekly_project: Predicting Boston Housing prices
-This is a weekly project at Coder School, Machine Learning course. 
 In this project, I got to evaluate the performance and predictive power of my model on data collected from homes in suburbs of Boston, Massachusetts.
 
 ## Dataset
